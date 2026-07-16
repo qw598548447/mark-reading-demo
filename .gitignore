@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Local server and logs
+*.log
+.python-version
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*credential*
+

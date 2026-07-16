@@ -1,0 +1,24 @@
+{
+  "name": "Mark — Your books remember",
+  "short_name": "Mark",
+  "description": "A tactile demo for capturing and revisiting thoughts from physical books.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eee2",
+  "theme_color": "#f3eee2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/mark-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/mark-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

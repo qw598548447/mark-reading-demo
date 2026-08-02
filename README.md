@@ -6,7 +6,7 @@ An independent interactive iPhone product-design concept for Mark, a hardware-an
 
 > **Prototype notice:** Bluetooth sync, OCR, speech recognition, AI source-book suggestions, and AI responses are simulated with local demo data. This prototype demonstrates consumer product thinking, AI interaction design, and rapid prototyping rather than a production implementation.
 
-**Online preview:** [GitHub Pages demo](https://qw598548447.github.io/mark-reading-demo/) · [Source repository](https://github.com/qw598548447/mark-reading-demo)
+**Online preview:** [GitHub Pages demo](https://mumu-w-01.github.io/mark-reading-demo/) · [Source repository](https://github.com/mumu-w-01/mark-reading-demo)
 
 ## 1. What is this for?
 
